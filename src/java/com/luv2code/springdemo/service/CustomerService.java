@@ -11,5 +11,5 @@ import com.luv2code.springdemo.entity.Customer;
  * @author acer swift 3
  */
 public interface CustomerService {
-    public List<Customer> getCustomer();
+    public List<Customer> getCustomers();
 }
