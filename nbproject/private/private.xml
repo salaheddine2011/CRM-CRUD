@@ -5,15 +5,13 @@
         <group>
             <file>file:/D:/Ginf3/JEE_Hadad/web-customer-tracker/web/WEB-INF/view/list-customers.jsp</file>
             <file>file:/D:/Ginf3/JEE_Hadad/web-customer-tracker/src/java/com/luv2code/springdemo/service/CustomerServiceImpl.java</file>
-            <file>file:/D:/Ginf3/JEE_Hadad/web-customer-tracker/src/java/com/luv2code/springdemo/dao/CustomerDAO.java</file>
             <file>file:/D:/Ginf3/JEE_Hadad/web-customer-tracker/web/WEB-INF/spring-mvc-crud-demo-servlet.xml</file>
+            <file>file:/D:/Ginf3/JEE_Hadad/web-customer-tracker/src/java/com/luv2code/springdemo/dao/CustomerDAO.java</file>
             <file>file:/D:/Ginf3/JEE_Hadad/web-customer-tracker/src/java/com/luv2code/springdemo/controller/CustomerController.java</file>
-            <file>file:/D:/Ginf3/JEE_Hadad/web-customer-tracker/src/java/com/luv2code/testdb/TestDbServlet.java</file>
             <file>file:/D:/Ginf3/JEE_Hadad/web-customer-tracker/src/java/com/luv2code/springdemo/service/CustomerService.java</file>
+            <file>file:/D:/Ginf3/JEE_Hadad/web-customer-tracker/src/java/com/luv2code/springdemo/dao/CustomerDAOImpl.java</file>
             <file>file:/D:/Ginf3/JEE_Hadad/web-customer-tracker/web/WEB-INF/view/customer-form.jsp</file>
-            <file>file:/D:/Ginf3/JEE_Hadad/web-customer-tracker/nbproject/build-impl.xml</file>
             <file>file:/D:/Ginf3/JEE_Hadad/web-customer-tracker/web/WEB-INF/web.xml</file>
-            <file>file:/D:/Ginf3/JEE_Hadad/web-customer-tracker/web/index.jsp</file>
         </group>
     </open-files>
 </project-private>
